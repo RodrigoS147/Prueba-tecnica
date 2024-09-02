@@ -49,10 +49,6 @@ Middleware/Servicios: Cors
 
 Este proyecto consiste en analizar una serie de archivos JSON para identificar qué usuarios utilizan cuáles módulos, determinar el conjunto mínimo de usuarios que cubren todos los módulos y visualizar los resultados mediante una aplicación desarrollada en React.
 
-### Repositorio GitHub para descargar el proyecto
-
-[]()
-
 # PARTE A
 
 ### Código de salida:
